@@ -785,7 +785,7 @@ textarea { resize: vertical; min-height: 100px; }
   cursor: pointer;
   transition: background .12s, color .12s;
 }
-.pub-dropdown-item:hover { background: var(--bg); color: var(-
+.pub-dropdown-item:hover { background: var(--bg); color: var(--text); }
 /* =============================================
    VIBRANT DASHBOARD STYLES
    ============================================= */
